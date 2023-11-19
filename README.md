@@ -9,7 +9,7 @@ I'm a student of NIT Ibaraki College.
 Learn infomation tech and science  
 
 ## skills
-[![My Skills](https://skillicons.dev/icons?i=c,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,md,flutter,dart)](https://skillicons.dev)
 
 ## interest
 - [ ] Linux desktop environment
@@ -20,7 +20,7 @@ Learn infomation tech and science
 ### learning　_φ(･_･
 - [x] C/C++
 - [x] markdown
-- [x] Flutter
+- [x] Flutter, Dart
 - [x] computer architectures
 - [x] information theory
 - [x] logic circuit ヽ(ﾟ∀｡)ﾉｳｪ
