@@ -20,6 +20,7 @@ Learn infomation tech and science
 ### learning　_φ(･_･
 - [x] C/C++
 - [x] markdown
+- [x] Flutter
 - [x] computer architectures
 - [x] information theory
 - [x] logic circuit ヽ(ﾟ∀｡)ﾉｳｪ
