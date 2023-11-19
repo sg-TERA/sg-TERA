@@ -1,3 +1,5 @@
+<これを見てくださっている日本人、日本語話者の方へ>  
+同一リポジトリ内に日本語で書かれたREADME-JPがありますので良ければそちらを御覧下さい。
 # sg-TERA-profile
 Hello everyone! I want to get along well (^_^)
 
@@ -28,4 +30,4 @@ Learn infomation tech and science
 - camera📷
 - System UI
 - car (especially VTEC)
-- Japan 
+- Japan
