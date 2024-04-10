@@ -81,4 +81,5 @@ Learn infomation tech and science
  - [x] 山梨
  - [x] 群馬
  - [x] 神奈川
+ - [x] 静岡
 </details>
