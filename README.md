@@ -1,4 +1,4 @@
-# sg-TERA-profile
+# sg-TERA's profile
 
 Hello everyone! I want to get along well (^_^) 
 
@@ -6,7 +6,7 @@ Hello everyone! I want to get along well (^_^)
 
 live in Japan & I'm Japanese.  
 I'm a student of NIT Ibaraki College.  
-Learn infomation tech and science  
+Learn computer science  
 
 ## skills
 
@@ -16,10 +16,13 @@ Learn infomation tech and science
 
 - [x] C/C++
 - [x] markdown
-- [x] Flutter, Dart
+- [ ] Flutter, Dart
 - [x] computer architectures
 - [x] information theory
-- [x] logic circuit ヽ(ﾟ∀｡)ﾉｳｪ
+- [x] logic circuit
+- [ ] ethics
+- [ ] Python
+- [ ] data structure & algorithm
 
 <details>
 <summary>See more</summary>
@@ -40,6 +43,7 @@ Learn infomation tech and science
 - car (especially VTEC)
 - Japan
 
+thankyou for watching! ✨️
 </details>
 
 <details>
@@ -54,10 +58,13 @@ Learn infomation tech and science
 
 - [x] C/C++
 - [x] markdown
-- [x] Flutter, Dart
+- [ ] Flutter, Dart
 - [x] コンピュータアーキテクチャ
 - [x] 情報理論
 - [x] 論理回路(ぜんぜんわからん)
+- [ ] 情報倫理
+- [ ] Python
+- [ ] data structure & algorithm
 
 ### 興味のあるもの
 
@@ -82,4 +89,6 @@ Learn infomation tech and science
  - [x] 群馬
  - [x] 神奈川
  - [x] 静岡
+
+thankyou for watching! ✨️
 </details>
