@@ -4,9 +4,7 @@ Hello everyone! I want to get along well (^_^)
 
 ## who
 
-live in Japan & I'm Japanese.  
-I'm a student of NIT Ibaraki College.  
-Learn computer science  
+I'm Jpanese & live in Japan. I'm studying computer science in NIT Ibaraki college.   
 
 ## skills
 
@@ -43,7 +41,7 @@ Learn computer science
 - car (especially VTEC)
 - Japan
 
-thankyou for watching! ✨️
+thankyou for watching! ✨️   
 </details>
 
 <details>
