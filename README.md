@@ -4,7 +4,7 @@ Hello everyone! I want to get along well (^_^)
 
 ## who
 
-I'm Jpanese & live in Japan. I'm studying computer science in NIT Ibaraki college.   
+I'm Jpanese & live in Japan. I'm studying computer science at NIT Ibaraki college.   
 
 ## skills
 
