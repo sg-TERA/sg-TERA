@@ -8,16 +8,17 @@ I'm Jpanese & live in Japan. I'm studying computer science at NIT Ibaraki colleg
 
 ## skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,md,flutter,dart,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,md,flutter,dart,html,css,hdl)](https://skillicons.dev)
 
 ### learning　_φ(･_･
 
 - [x] C/C++
 - [x] markdown
-- [ ] Flutter, Dart
+- [x] Flutter, Dart
 - [x] computer architectures
 - [x] information theory
 - [x] logic circuit
+- [ ] verilog
 - [ ] ethics
 - [ ] Python
 - [ ] data structure & algorithm
