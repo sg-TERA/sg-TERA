@@ -8,7 +8,7 @@ I'm Jpanese & live in Japan. I'm studying computer science at NIT Ibaraki colleg
 
 ## skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,md,flutter,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,md,flutter,dart,html,css)](https://skillicons.dev)
 
 ### learning　_φ(･_･
 
@@ -23,7 +23,11 @@ I'm Jpanese & live in Japan. I'm studying computer science at NIT Ibaraki colleg
 - [ ] data structure & algorithm
 
 <details>
-<summary>See more</summary>
+<summary>See more</summary>  
+
+### Using OS environment  
+ 
+[![My Skills](https://skillicons.dev/icons?i=windows,apple,ubuntu)](https://skillicons.dev)
 
 ### interest
 
