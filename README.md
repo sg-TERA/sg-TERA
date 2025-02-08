@@ -18,10 +18,10 @@ I'm Jpanese & live in Japan. I'm studying computer science at NIT Ibaraki colleg
 - [x] computer architectures
 - [x] information theory
 - [x] logic circuit
-- [ ] verilog
-- [ ] ethics
+- [x] verilog
+- [x] ethics
 - [ ] Python
-- [ ] data structure & algorithm
+- [x] data structure & algorithm
 
 <details>
 <summary>See more</summary>  
@@ -32,10 +32,10 @@ I'm Jpanese & live in Japan. I'm studying computer science at NIT Ibaraki colleg
 
 ### interest
 
-- [ ] Linux desktop environment
-- [ ] mobile APPs
-- [ ] Open Source License
-- [ ] embedded system (especially train system(TIMS, INTEROS, etc...))
+- Linux desktop environment
+- mobile APPs
+- Open Source License
+- embedded system (especially train system(TIMS, INTEROS, etc...))
 
 ### love
 
@@ -65,16 +65,16 @@ thankyou for watching! ✨️
 - [x] コンピュータアーキテクチャ
 - [x] 情報理論
 - [x] 論理回路(ぜんぜんわからん)
-- [ ] 情報倫理
+- [x] 情報倫理
 - [ ] Python
-- [ ] data structure & algorithm
+- [x] data structure & algorithm
 
 ### 興味のあるもの
 
-- [ ] Linuxデスクトップ環境(いずれ自作したい)
-- [ ] モバイルアプリ
-- [ ] オープンソースライセンスの仕組み、歴史、行動原理
-- [ ] 組み込み向けシステム(特に鉄道のTIMSやINTEROSなどの制御システム)
+- Linuxデスクトップ環境(いずれ自作したい)
+- モバイルアプリ
+- オープンソースライセンスの仕組み、歴史、行動原理
+- 組み込み向けシステム(特に鉄道のTIMSやINTEROSなどの制御システム)
 
 ### 好きなもの
 
